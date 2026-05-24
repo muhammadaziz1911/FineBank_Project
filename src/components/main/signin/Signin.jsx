@@ -86,6 +86,12 @@ const Signin = () => {
             <button type='submit'>Continue with Google</button>
           </div>
 
+          <div className="link_create_account">
+            <p>
+              Create an account
+            </p>
+          </div>
+
         </div>
 
       </div>

@@ -78,6 +78,10 @@ const Signin = () => {
             </button>
           </div>
 
+          <div className="line_signin">
+            <img src="" alt="line_signin" />
+          </div>
+
         </div>
 
       </div>

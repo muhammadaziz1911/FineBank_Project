@@ -82,6 +82,10 @@ const Signin = () => {
             <img src="" alt="line_signin" />
           </div>
 
+          <div className="button_google">
+            <button type='submit'>Continue with Google</button>
+          </div>
+
         </div>
 
       </div>

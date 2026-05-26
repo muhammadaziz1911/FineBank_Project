@@ -169,3 +169,19 @@
   cursor: pointer;
   margin-left: 50px;
 }
+
+.button_google button {
+  width: 375px;
+  height: 40px;
+  border-radius: 4px;
+  border: none;
+  background-color: #E4E7EB;
+  color: #4B5768;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  cursor: pointer;
+  margin-left: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

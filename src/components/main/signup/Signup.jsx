@@ -19,6 +19,14 @@ const Signup = () => {
 
         <div className="form_input">
 
+          <div className="name">
+            <h3>
+              Name
+            </h3>
+
+            <input type="text" placeholder='Tanzir Rahman' />
+          </div>
+
           <div className="email">
             <h3>
               Email Address

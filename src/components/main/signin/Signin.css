@@ -189,5 +189,7 @@
 .link_create_account p {
   color: #299D91;
   font-weight: 600;
-  font-size: 16px;
+  font-size: 14px;
+  margin-left: 50px;
+  font-family: Arial, Helvetica, sans-serif;
 }

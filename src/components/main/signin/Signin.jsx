@@ -2,6 +2,7 @@ import React from 'react'
 import { useState } from "react";
 import "./Signin.css"
 import finebank_avatar from "./../../../assets/main_images/finebank_avatar.png"
+import { Link } from 'react-router-dom';
 
 
 
@@ -87,9 +88,9 @@ const Signin = () => {
           </div>
 
           <div className="link_create_account">
-            <p>
+            <Link to="/signup"><p>
               Create an account
-            </p>
+            </p></Link>
           </div>
 
         </div>

@@ -19,6 +19,24 @@ const Forgot_password = () => {
           <p>
             Enter your email adress to get the password reset link
           </p>
+
+          <div className="email_adress">
+            <h3>
+              Email Address
+            </h3>
+
+            <input type="email" placeholder='hello@example.com' />
+
+            <button type='submit'>
+              Password Reset
+            </button>
+
+            <div className="link_h3">
+              <h3>
+                Back to log in
+              </h3>
+            </div>
+          </div>
         </div>
 
       </div>
